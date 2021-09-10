@@ -1,0 +1,2 @@
+rootProject.name = "Cake Store"
+include ':app'
